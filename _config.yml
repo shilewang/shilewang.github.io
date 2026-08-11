@@ -24,13 +24,13 @@ repository               : "shilewang/shilewang.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Shile Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Peking University<br>Geometry and Topology"
+  location         : "Beijing, China"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangshile@stu.pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
