@@ -12,4 +12,4 @@ A brief introduction of the Chern–Weil theory of characteristic classes, focus
 
 ## Counterexamples to the Stallings Equalizer Conjecture via Colored Stallings Graphs （2026）
 
-An exposition of the Stallings equalizer conjecture and its counterexamples via colored Stallings graphs, including the construction of monomorphisms with equalizers of rank at least \(2n-2\). [PDF](../files/counterexamples-stallings-equalizer.pdf)
+A introduction of the Stallings equalizer conjecture and its counterexamples via colored Stallings graphs, including the construction of equalizers of rank at least \(2n-2\). [PDF](../files/counterexamples-stallings-equalizer.pdf)
