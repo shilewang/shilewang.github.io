@@ -1,22 +1,32 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Heegaard Splitting<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    39.9057136,
+    116.3912972
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Knots and Links<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    39.9057136,
+    116.3912972
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Fixed Point Properties of Group Actions on Trees<br />Mathematics REU, University of Chicago; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "CAT(0) Cube Complexes<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    39.9057136,
+    116.3912972
+  ],
+  [
+    "CAT(0) Spaces<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    39.9057136,
+    116.3912972
+  ],
+  [
+    "Geometry of Surfaces<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    39.9057136,
+    116.3912972
   ]
 ];
