@@ -4,7 +4,7 @@ permalink: /course-notes/
 author_profile: true
 ---
 
-Work in progress — notes coming soon.
+> *Work in progress — notes coming soon.*
 
 Here are some notes from courses I have taken in mathematics.
 
