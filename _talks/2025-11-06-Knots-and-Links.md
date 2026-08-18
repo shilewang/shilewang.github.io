@@ -8,4 +8,4 @@ date: 2025-11-06
 location: "Beijing, China"
 ---
 
-This is a description of your talk.
+This is the "3+X" seminar on Knots and Links 
