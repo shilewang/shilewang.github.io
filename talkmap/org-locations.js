@@ -20,7 +20,7 @@ var addressPoints = [
     116.3912972
   ],
   [
-    "CAT(0) Spaces<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    "Isometries of CAT(0) Spaces<br />School of Mathematical Sciences, Peking University; Beijing, China",
     39.9057136,
     116.3912972
   ],
