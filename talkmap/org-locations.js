@@ -5,7 +5,7 @@ var addressPoints = [
     116.3912972
   ],
   [
-    "Knots and Links<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    "Higher-dimensional Knots<br />School of Mathematical Sciences, Peking University; Beijing, China",
     39.9057136,
     116.3912972
   ],
