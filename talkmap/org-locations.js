@@ -15,7 +15,7 @@ var addressPoints = [
     -87.6244212
   ],
   [
-    "CAT(0) Cube Complexes<br />School of Mathematical Sciences, Peking University; Beijing, China",
+    "Embedding Right-Angled Artin Groups into Mapping Class Groups<br />School of Mathematical Sciences, Peking University; Beijing, China",
     39.9057136,
     116.3912972
   ],
