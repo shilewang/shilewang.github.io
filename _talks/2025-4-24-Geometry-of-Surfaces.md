@@ -8,6 +8,6 @@ date: 2025-04-24
 location: "Beijing, China"
 ---
 
-This is the geometry seminar organized by Ziqiang Bao in 2025 Spring at Peking University. The reference is Stillwell's *Geometry of Surfaces*.
+This is the geometry seminar organized by Ziqiang Bao in 2025 Spring at Peking University. The reference is J. Stillwell's *Geometry of Surfaces*.
 
 I presented section 5.6-6.10 in *Geometry of Surfaces*, focusing on the geometric classification of surfaces, and the geodesics, and the fundamental group of the surfaces.
