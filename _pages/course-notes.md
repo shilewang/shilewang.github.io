@@ -10,21 +10,21 @@ Here are some notes from courses I have taken in mathematics.
 
 ## 2026 Spring
 
-### Geometric Group Theory
+- Geometric Group Theory
 
-### Fiber Bundles and Characteristic Classes
+- Fiber Bundles and Characteristic Classes
 
-### Functional Analysis
+- Functional Analysis
 
 ## 2025 Fall
 
-### Homology Theory
+- Homology Theory
 
 ## 2025 Spring
 
-### Geometry II (Honor)
+- Geometry II (Honor)
 
-### Theory of Functions of Complex Variables
+- Theory of Functions of Complex Variables
 
-### Applied Stochastic Processes
+- Applied Stochastic Processes
 
