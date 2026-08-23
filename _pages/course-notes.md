@@ -26,6 +26,12 @@ Here are some notes from courses I have taken in mathematics.
 
 - Theory of Functions of Complex Variables
 
+Reference: X. Tan and S. Wu, *A Concise Course in Complex Functions*.
+
+[Notes 1](/files/Theory-of-functions-of-complex-variables-notes-1.pdf) *(Chinese)*
+
+[Notes 2](/files/Theory-of-functions-of-complex-variables-notes-2.pdf) *(Chinese)*
+
 - Applied Stochastic Processes
 
   Reference: D. Chen and F. Zhang, *Applied Stochastic Processes*.
