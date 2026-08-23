@@ -23,7 +23,7 @@ Here are some notes from courses I have taken in mathematics.
 
 - Geometry II (Honor)
 
-  Differencial Geometry: [Notes](/files/GeometryII(Honor)-notes-1.pdf) *(Chinese)*
+  Differential Geometry: [Notes](/files/GeometryII(Honor)-notes-1.pdf) *(Chinese)*
 
   Topology: [Notes](/files/GeometryII(Honor)-notes-2.pdf) *(Chinese)*
 
