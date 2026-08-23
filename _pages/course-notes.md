@@ -23,6 +23,10 @@ Here are some notes from courses I have taken in mathematics.
 
 - Geometry II (Honor)
 
+  Differencial Geometry: [Notes](/files/GeometryII(Honor)-notes-1.pdf) *(Chinese)*
+
+  Topology: [Notes](/files/GeometryII(Honor)-notes-2.pdf) *(Chinese)*
+
 - Theory of Functions of Complex Variables
 
   Reference: X. Tan and S. Wu, *A Concise Course in Complex Functions*.
