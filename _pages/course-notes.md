@@ -14,7 +14,6 @@ Here are some notes from courses I have taken in mathematics.
 
 - Fiber Bundles and Characteristic Classes
 
-- Functional Analysis
 
 ## 2025 Fall
 
