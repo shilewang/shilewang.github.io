@@ -20,6 +20,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Friends"
+    url: /friends/ 
     
   # - title: "CV"
   #   url: /cv-json/
